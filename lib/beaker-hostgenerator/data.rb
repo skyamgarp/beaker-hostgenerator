@@ -869,7 +869,7 @@ module BeakerHostGenerator
                       'windowsfips2016-6432' => {
                         general: {
                           'platform' => 'windows-2016-64',
-                          'packaging_platform' => 'windowsfips-2016-x64',
+                          'packaging_platform' => 'windowsfips-2012-x64',
                           'ruby_arch' => 'x64',
                         },
                         vmpooler: {
